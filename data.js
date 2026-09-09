@@ -525,7 +525,7 @@ const INSIGHTS = [
       role: "Lead Analytics & Media Intelligence",
       avatar: "https://images.pexels.com/photos/7793169/pexels-photo-7793169.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
     },
-    image: "https://images.pexels.com/photos/8547282/pexels-photo-8547282.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    image: "images/sheila.jpeg",
     excerpt: "Advertising Value Equivalency is an outdated, discredited metric. Here is how modern communications leaders calculate true commercial ROI.",
     content: [
       "For thirty years, PR agencies defended their retainers by showing clients 'Advertising Value Equivalency'—a calculation of what a newspaper column would have cost if purchased as a display advertisement. The Barcelona Principles debunked this methodology years ago, yet many regional agencies still rely on it.",
@@ -617,15 +617,35 @@ const AGENCY_VALUES = [
 const AGENCY_TEAM = [
   {
     name: "Felix Obuya",
-    role: "Founder"
+    role: "Founder & Principal Communications Strategist",
+    bio: "Former financial journalist turned digital communications architect with 12+ years shaping narratives for East Africa's leading enterprises.",
+    location: "Nairobi, Kenya",
+    profile: "https://linkedin.com/",
+    avatar: "images/felix.jpeg"
   },
   {
     name: "Elvis Omondi",
-    role: "Communications Strategist"
+    role: "Head of Reputation & Crisis Management",
+    bio: "Crisis strategist specializing in regulatory communication, executive media training, and high-stakes reputation defense.",
+    location: "Nairobi, Kenya",
+    profile: "https://linkedin.com/",
+    avatar: "images/elvis.jpeg"
   },
   {
     name: "Sheila Kaleha",
-    role: "Digital PR Strategist"
+    role: "Director of Media Relations & Press Affairs",
+    bio: "Deep rolodex across East African television, print, radio, and digital newsrooms. Veteran broadcast producer.",
+    location: "Nairobi, Kenya",
+    profile: "https://linkedin.com/",
+    avatar: "images/sheila.jpeg"
+  },
+  {
+    name: "Zahara Nanjala",
+    role: "Creative Director & Multimedia Storyteller",
+    bio: "Directs visual brand stories, documentary films, and award-winning viral campaign concepts for modern African audiences.",
+    location: "Nairobi, Kenya",
+    profile: "https://linkedin.com/",
+    avatar: "https://images.pexels.com/photos/3861074/pexels-photo-3861074.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
   }
 ];
 
