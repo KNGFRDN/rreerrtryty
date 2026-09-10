@@ -618,7 +618,7 @@ const AGENCY_TEAM = [
   {
     name: "Felix Obuya",
     role: "Founder & Principal Communications Strategist",
-    bio: "Former financial journalist turned digital communications architect with 12+ years shaping narratives for East Africa's leading enterprises.",
+    bio: "Public Relations and digital communication architect with 6 + years of experience in shaping narratives for East Africa leading enterprices.",
     location: "Nairobi, Kenya",
     profile: "https://linkedin.com/",
     avatar: "images/felix.jpeg"
