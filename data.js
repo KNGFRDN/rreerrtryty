@@ -637,7 +637,7 @@ const AGENCY_TEAM = [
     bio: "Deep rolodex across East African television, print, radio, and digital newsrooms. Veteran broadcast producer.",
     location: "Nairobi, Kenya",
     profile: "https://linkedin.com/",
-    avatar: "images/sheila.jpeg"
+    avatar: "images/Sheila.jpeg"
   },
   {
     name: "Zahara Nanjala",
